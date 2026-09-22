@@ -609,7 +609,7 @@ The application is compatible with modern static frontend hosting platforms.
 - Netlify
 
 ```text
-Live Demo: <YOUR_DEPLOYED_URL>
+Live Demo: https://loanwise-smart-loan-application.netlify.app/
 ```
 
 ---
